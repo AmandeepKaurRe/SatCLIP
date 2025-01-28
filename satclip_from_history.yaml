@@ -1,0 +1,6 @@
+name: satclip_new
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /home/akaur64/.conda/envs/satclip_new
